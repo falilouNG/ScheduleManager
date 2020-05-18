@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273038143103",
+    "firebase_url": "https://mmanager-21289.firebaseio.com",
+    "project_id": "mmanager-21289",
+    "storage_bucket": "mmanager-21289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273038143103:android:e12dc4663bb4c31a94d94a",
+        "android_client_info": {
+          "package_name": "com.io.Mmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273038143103-5mj9ad8vfj7rilk67adsca99qshajs9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtKeUCBHIYo_8-eb3-VveNzletinp1TzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273038143103-5mj9ad8vfj7rilk67adsca99qshajs9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
